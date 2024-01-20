@@ -5,13 +5,13 @@ Object.defineProperty(exports, "__esModule", {
 });
 Object.defineProperty(exports, "ExampleComponent", {
   enumerable: true,
-  get: function () {
+  get: function get() {
     return _APIREQUEST.default;
   }
 });
 Object.defineProperty(exports, "Welcome", {
   enumerable: true,
-  get: function () {
+  get: function get() {
     return _Welcome.default;
   }
 });
