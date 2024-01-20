@@ -1,3 +1,4 @@
 import Welcome from "./components/Welcome"
+import ExampleComponent from "./components/APIREQUEST"
 
-export{Welcome};
+export{Welcome,ExampleComponent};
